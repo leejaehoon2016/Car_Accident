@@ -1,6 +1,6 @@
 # Original Data
 
-## [사용방법]
+## 사용방법
 from geoband.API import *
 
 
