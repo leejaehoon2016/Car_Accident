@@ -2,6 +2,8 @@
 
 ## [사용방법]
 from geoband.API import *
+
+
 GetCompasData('SBJ_1912_001', '4', 'train.csv')
 
 * API
